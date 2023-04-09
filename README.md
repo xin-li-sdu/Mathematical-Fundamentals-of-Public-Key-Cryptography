@@ -16,3 +16,7 @@
 
 
 ## 注意，本仓库中cpp均需NTL库，大部分python均需sage运行
+
+
+
+## 注意2，本仓库中readme文件由于github问题不能渲染公式，如若阅读遇到困难可下载该文件并用markdown阅读器学习
